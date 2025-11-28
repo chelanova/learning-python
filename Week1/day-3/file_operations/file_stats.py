@@ -1,6 +1,5 @@
 import os
 from pathlib import Path
-from datetime import datetime
 import json
 
 class FileAnalyzer:

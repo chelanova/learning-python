@@ -39,5 +39,3 @@ Hari ini aku:
 - Commit pertama ke GitHub
 
 # Target: Membangun web apps berbasis AI dalam 6 bulan.
-
-#100DaysOfCode #Python #WebDevelopment

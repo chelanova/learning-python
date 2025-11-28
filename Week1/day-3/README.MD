@@ -34,7 +34,7 @@ A Python project to analyze file statistics with proper error handling implement
 
 ## 🔜 Next Steps (Day 4)
 - CSV Operations project
-- Working with CSV parsing using `csv` module or `pandas`
+- Working with CSV parsing using `csv` module
 - Data manipulation and analysis
 
 ## 💡 Key Concepts Applied
