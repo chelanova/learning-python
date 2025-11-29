@@ -50,7 +50,3 @@ Ini adalah bagian dari perjalanan belajar Python saya. Feedback dan saran sangat
 
 --Built with AI assistance as part of my learning journey. Each concept was understood and implemented with hands-on practice.--
 **Happy Coding! 🐍**
-
-git add .
-git commit -m "day-3: JSON basics, CSV practice, dan Config Manager"
-git push
